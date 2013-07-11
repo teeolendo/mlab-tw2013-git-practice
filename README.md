@@ -3,5 +3,5 @@ mlab-tw2013-git-practice
 
 adding some code here
 {
-	return still awesome!
+	return still better than awesome!
 }
