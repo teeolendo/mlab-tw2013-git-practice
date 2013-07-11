@@ -1,9 +1,14 @@
 mlab-tw2013-git-practice
 ========================
 
+adding other code here
+{
+	return other code!
+}
+
 adding some code here
 {
-	return better than awesome!
+	return still better than awesome!
 }
 
 adding mode code here
